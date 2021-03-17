@@ -1,5 +1,0 @@
-<?xml version="1.0"?>
-<Runs Version="1" Minor="0">
-	<Run Id="kernel0" LaunchDir="/scratch/users/sx233/FPGA-test/gemm.autosa/temp.autosa.large.mm/_x/kernel0.sw_emu/kernel0" FlowId="Build_IP" FromStepId="vitis_hls" ToStepId="vitis_hls"/>
-</Runs>
-

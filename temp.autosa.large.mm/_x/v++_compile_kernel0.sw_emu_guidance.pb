@@ -1,3 +1,0 @@
-
-è
-v++_compile_kernel0.sw_emu$24a2520d-2470-4b69-9d65-3d82cb4bebcd—v++  -s -t sw_emu --platform xilinx_u280_xdma_201920_3 -R2 -O3 --kernel_frequency 300 --vivado.prop=run.impl_1.STRATEGY=Performance_EarlyBlockPlacement -c -k kernel0 -o kernel0.sw_emu.xo src/kernel_kernel.cpp *á"Ç/scratch/users/sx233/FPGA-test/gemm.autosa/temp.autosa.large.mm/_x/reports/kernel0.sw_emu/v++_compile_kernel0.sw_emu_guidance.html2m"i/scratch/users/sx233/FPGA-test/gemm.autosa/temp.autosa.large.mm/_x/v++_compile_kernel0.sw_emu_guidance.pb
