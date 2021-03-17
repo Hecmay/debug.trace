@@ -1,0 +1,13 @@
+# LOG from sw_emu of HCL_MM example (temp.vhls.1024.8x8)
+# Input matrix size is 1024x1024. Array part [256,256,512] Latency hiding [32,32] SIMD [8]
+
+INFO: Reading build_dir.sw_emu.xilinx_u280_xdma_201920_3/kernel.xclbin
+Loading: 'build_dir.sw_emu.xilinx_u280_xdma_201920_3/kernel.xclbin'
+Found Platform
+Platform Name: Xilinx
+CRITICAL WARNING: [SW-EM 09-0] Unable to find emconfig.json. Using default device "xilinx:pcie-hw-em:7v3:1.0"
+Trying to program device[0]: xilinx:pcie-hw-em:7v3:1.0
+Device[0]: program successful!
+Execution Time: 4421.96
+[ INFO ] Finish running...
+The maximum depth reached by any of the 307 hls::stream() instances in the design is 2097152

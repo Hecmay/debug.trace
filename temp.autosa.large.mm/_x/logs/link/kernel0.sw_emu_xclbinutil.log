@@ -1,0 +1,27 @@
+XRT Build Version: 2.8.743 (2020.2)
+       Build Date: 2020-11-16 08:21:45
+          Hash ID: 77d5484b5c4daa691a7f78235053fb036829b1e9
+Creating a default 'in-memory' xclbin image.
+
+Section: 'BITSTREAM'(0) was successfully added.
+Size   : 2153376 bytes
+Format : RAW
+File   : '/scratch/users/sx233/FPGA-test/gemm.autosa/temp.autosa.large.mm/_x/link/int/kernel0.sw_emu.so'
+WARNING: Skipping CLOCK_FREQ_TOPOLOGY section for count size is zero.
+WARNING: Section 'CLOCK_FREQ_TOPOLOGY' content is empty.  No data in the given JSON file.
+
+Section: 'CLOCK_FREQ_TOPOLOGY'(11) was empty.  No action taken.
+Format : JSON
+File   : '/scratch/users/sx233/FPGA-test/gemm.autosa/temp.autosa.large.mm/_x/link/int/kernel0.sw_emu_xml.rtd'
+
+Section: 'BUILD_METADATA'(14) was successfully added.
+Size   : 3180 bytes
+Format : JSON
+File   : '/scratch/users/sx233/FPGA-test/gemm.autosa/temp.autosa.large.mm/_x/link/int/kernel0.sw_emu_build.rtd'
+
+Section: 'EMBEDDED_METADATA'(2) was successfully added.
+Size   : 2601 bytes
+Format : RAW
+File   : '/scratch/users/sx233/FPGA-test/gemm.autosa/temp.autosa.large.mm/_x/link/int/kernel0.sw_emu.xml'
+Successfully wrote (2164154 bytes) to the output file: /scratch/users/sx233/FPGA-test/gemm.autosa/temp.autosa.large.mm/kernel0.sw_emu.xclbin
+Leaving xclbinutil.

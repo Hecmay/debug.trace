@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="link" dir="">
+  <FileSets>
+    <FileSet Name="kernel_kernel0" Type="DesignSrcs">
+      <File Path="/scratch/users/sx233/FPGA-test/gemm.autosa/temp.autosa.large.mm/_x/link/int/xo/kernel0/kernel0/cpu_sources/kernel_kernel.cpp"/>
+      <Config/>
+    </FileSet>
+  </FileSets>
+  <Runs/>
+</project>

@@ -1,0 +1,13 @@
+Tue Mar 16 21:38:34 2021: Server was asked to start on port: '36069'
+Tue Mar 16 21:38:34 2021: Server is using token UUID: 'cb4c8753-5c64-4a1b-acc4-a28617fb2382'
+Tue Mar 16 21:38:34 2021: SESSION_MGR: creating session with session uuid: '6d04a3e9-ade5-4ab9-8d63-1f78fcd2ec76' and name 'default'
+Tue Mar 16 21:38:34 2021: Attempting to start server on port '36069'
+Tue Mar 16 21:38:34 2021: XCD main fifo: created main fifo '/tmp/xcdmaincb4c8753-5c64-4a1b-acc4-a28617fb2382', fd read = 13
+Tue Mar 16 21:38:34 2021: Running Dispatch Server
+Tue Mar 16 21:38:34 2021: Version 2.1.0
+Tue Mar 16 21:38:43 2021: Dispatch Server: Accepted socket connection from client
+Tue Mar 16 21:38:43 2021: EXCHANGE_TOKEN received, server token: cb4c8753-5c64-4a1b-acc4-a28617fb2382, passed token: cb4c8753-5c64-4a1b-acc4-a28617fb2382
+Tue Mar 16 21:38:43 2021: SESSION_MGR: creating session with session uuid: 'a0b308a3-7d58-4c2b-8a86-22d242bd82d9' and name 'v++_link_kernel0.sw_emu'
+Tue Mar 16 21:38:43 2021: GUIDANCE_SMGR: creating guidance session with uuid: 'a0b308a3-7d58-4c2b-8a86-22d242bd82d9' and name 'v++_link_kernel0.sw_emu'
+Tue Mar 16 21:39:06 2021: SESSION_MGR: closing session for UUID 'a0b308a3-7d58-4c2b-8a86-22d242bd82d9' with name 'v++_link_kernel0.sw_emu'
+Tue Mar 16 21:39:06 2021: GUIDANCE_SMGR: closing session for UUID 'a0b308a3-7d58-4c2b-8a86-22d242bd82d9' with name 'v++_link_kernel0.sw_emu'
