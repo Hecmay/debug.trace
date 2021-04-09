@@ -169,7 +169,7 @@ def top(target=None):
     # Move data to and from device
     if isinstance(target, hcl.Platform):
         s.to(train_images, target.xcel, burst_len=16)
-        s.to(knn_update.knn_mat, target.host)
+        s.to(knn_update.knn_mat, target.host, burst_len=16)
 
     # At the end, we build the whole offloaded function.
     return hcl.build(s, target=target)
